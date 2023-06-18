@@ -6,7 +6,7 @@ import {
     MdOutlineHome
   } from "react-icons/md";
   
-  export const sidebarConstant = [
+  export const sidebarConstant =[
     {
       path:"/",
       name:"Home",
@@ -33,4 +33,3 @@ import {
     //   icon: MdOutlineWallet
     // },
   ];
-  
